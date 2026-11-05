@@ -17,3 +17,13 @@ My key responsibilities included understanding requirements, designing and execu
 I have experience working with Agile methodologies and test management tools like TestLink and Jira. Additionally, I have learned Java and Selenium for automation testing, along with SQL for database validation.
 
 I am now looking forward to an opportunity where I can utilize my manual testing experience while expanding my knowledge of API testing, automation, and cloud-based application testing.
+
+# Follow Up Questions  :
+ - Explain the architecture and functionality of Axel Market.
+ - How do you design test cases from a requirement?
+ - What is the difference between smoke and regression testing?
+ - How do you report a bug in Jira?
+ - How do you decide the severity and priority of a defect?
+ - How do you test an e-commerce checkout process?
+ - How do you validate data between UI and database?
+ - Have you performed API testing using Postman?
