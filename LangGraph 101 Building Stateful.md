@@ -8,33 +8,33 @@ In this lab, you'll learn to build intelligent AI agents using LangGraph, a powe
 1. What is LangGraph?
 2. Why LangGraph?
 3. Setup
-    A. Installing Required Libraries
-    B. Importing Required Libraries
+    - A. Installing Required Libraries
+    - B. Importing Required Libraries
 4. Components of LangGraph
-    A. States
-    B. Nodes
-    C. Edges
-    D. Conditional Edges
+    - A. States
+    - B. Nodes
+    - C. Edges
+    - D. Conditional Edges
 5. Building an Authentication Workflow
-    A. Setting the Entry Point
-    B. Compiling the Workflow
-    C. Running the Application
+    - A. Setting the Entry Point
+    - B. Compiling the Workflow
+    - C. Running the Application
 6. Building a QA Workflow Specific to the Guided Project
-    A. Defining the State for the QA Workflow
-    B. Defining the Input Validation Node
-    C. Defining the Context Provider
-    D. Integrating LLM for QA Workflow
-    E. Creating the QA Workflow Graph
+    - A. Defining the State for the QA Workflow
+    - B. Defining the Input Validation Node
+    - C. Defining the Context Provider
+    - D. Integrating LLM for QA Workflow
+    - E. Creating the QA Workflow Graph
 
 
 # Exercises
 
-Exercise 1: Define the State type
-Exercise 2: Create add() node Function
-Exercise 3: Create print_out() node Function
-Exercise 4: Stop Condition
-Exercise 5: Graph Construction
-Exercise 6: Compile and Run
+- Exercise 1: Define the State type
+- Exercise 2: Create add() node Function
+- Exercise 3: Create print_out() node Function
+- Exercise 4: Stop Condition
+- Exercise 5: Graph Construction
+- Exercise 6: Compile and Run
 
 
 
