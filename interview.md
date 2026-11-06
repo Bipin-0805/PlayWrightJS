@@ -18,7 +18,7 @@ I have experience working with Agile methodologies and test management tools lik
 
 I am now looking forward to an opportunity where I can utilize my manual testing experience while expanding my knowledge of API testing, automation, and cloud-based application testing.
 
-# Follow Up Questions  :
+## Follow Up Questions  :
  - Explain the architecture and functionality of Axel Market.
  - How do you design test cases from a requirement?
  - What is the difference between smoke and regression testing?
